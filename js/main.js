@@ -1,13 +1,13 @@
 AOS.init();
 
 /***** header *****/
-$(window).scroll(function () {
-    if ($(this).scrollTop() > 100) {
-        $('.header').addClass('header_scroll')
-    } else {
-        $('.header').removeClass('header_scroll')
-    }
-});
+// $(window).scroll(function () {
+//     if ($(this).scrollTop() > 100) {
+//         $('.header').addClass('header_scroll')
+//     } else {
+//         $('.header').removeClass('header_scroll')
+//     }
+// });
 
 /***** main_banner *****/
 
